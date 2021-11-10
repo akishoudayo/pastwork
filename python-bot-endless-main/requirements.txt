@@ -1,0 +1,4 @@
+discord
+PyNaCl
+youtube_dl
+requests

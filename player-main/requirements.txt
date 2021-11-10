@@ -1,0 +1,6 @@
+discord
+PyNaCl
+requests
+psutil
+youtube_dl
+flask
